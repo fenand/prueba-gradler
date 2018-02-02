@@ -5,7 +5,7 @@ class EjercicioR207
   public String devolverEnOrden(ArrayList<String> palabras)
   {
     String aDevolver = "";
-    //Repeweweetir tantas veces como elementos tenga "palabras" originalmente
+    //Repeweweetir tantas vecesdeded como elementos tenga "palabras" originalmente
     while(palabras.size() > 0) {
     
       //Repetir tantas veces como elementos tenga palabras
